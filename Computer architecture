@@ -1,0 +1,17 @@
+NAME: Adewumi Isaac 
+DEPTH: COMPUTER SCIENCE
+MATRIC NO:ESAE-2022-002-CSC-PAS
+ASSINGMENT
+LEVEL: 200 LEVEL  FISRT SEMESTER
+COURSE/CODE:
+
+1: Write Critical analysis on 
+ARM, CISC, RISK and AMD as a processor
+ARM
+ARM: ARM is a RISC architecture that's optimized for efficiency and power consumption. It's widely used in mobile devices because of its small size and low power requirements. ARM processors use a small number of simple instructions that are easy to decode and execute. This makes them very efficient, but they're not as powerful as CISC processors.
+CISC
+CISC: CISC, or Complex Instruction Set Computer, is an architecture that uses a larger set of instructions that are more complex and powerful, but also more difficult to decode and execute. 
+RISC
+RISC: RISC, or Reduced Instruction Set Computer, is similar to ARM in that it uses a small set of simple instructions. However, RISC is a more general term that covers any architecture that uses this approach, while ARM is a specific implementation of RISC. Most modern processors, including ARM, use RISC principles.
+AMD
+AMD: AMD, or Advanced Micro Devices, is a company that produces both ARM-based and x86-based processors. They're a major competitor to Intel, and their x86 processors are popular in desktop and laptop computers. This makes it faster and more efficient than CISC, which uses more complex instructions. However, RISC processors often require more instructions to complete tasks, which can take longer overall. To compensate for this, RISC processors often have pipelines that allow multiple instructions to be processed simultaneously. This makes them faster overall than CISC processors.
